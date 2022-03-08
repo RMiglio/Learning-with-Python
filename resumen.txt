@@ -1,0 +1,4 @@
+promedio: 7.363636363636363
+promedio de aprobados: 0.36363636363636365
+Alumno con Mayor nota:  CRISTIAN JAVIER"
+Alumno con Menor nota:  DEHELMIS JOSE"
